@@ -1,1 +1,2 @@
 Name: Chandini Gujju\nFather's Name: Khagaraju Gujju\nSpecialization: BTech Computer Science
+Specialization: Computer Science
